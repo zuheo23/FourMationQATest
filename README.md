@@ -7,8 +7,8 @@ Requirements
 
 Usage
 ---
-git clone https://github.com/zuheo23/FourMationQATest.git
-cd FourMationQATest
-python TestCases.py 
-or
-python TestCases.py > results.txt 2>&1
+* git clone https://github.com/zuheo23/FourMationQATest.git
+* cd FourMationQATest
+* python TestCases.py 
+or,
+* python TestCases.py > results.txt 2>&1
