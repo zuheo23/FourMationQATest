@@ -1,0 +1,27 @@
+test_changing_quantity_via_textbox (__main__.TestModifyQuantity) ... ok
+test_down_arrow_decrement_quantity (__main__.TestModifyQuantity) ... ok
+test_up_arrow_increment_quantity (__main__.TestModifyQuantity) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 41.411s
+
+OK
+test_add_product_quantity_less_than_ten_to_cart (__main__.TestAddToCart) ... ok
+test_add_product_quantity_more_than_ten_to_cart (__main__.TestAddToCart) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 39.060s
+
+OK
+test_remove_product_from_cart (__main__.TestRemoveFromCart) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 21.422s
+
+OK
+test_checkout (__main__.TestCheckout) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 20.153s
+
+OK
