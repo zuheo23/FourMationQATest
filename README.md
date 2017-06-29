@@ -3,6 +3,7 @@ Requirements
 * Internet connection
 * Python 2.7
 * pip install selenium
+* Google Chrome
 
 
 Usage
